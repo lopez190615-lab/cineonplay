@@ -1,0 +1,6 @@
+{
+  "name": "Cineon Play",
+  "description": "Plataforma oficial Cineon Play para subir, organizar y reproducir videos por categorías con panel de administración privado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
